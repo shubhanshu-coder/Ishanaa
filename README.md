@@ -9,3 +9,8 @@ Used Dijkstra algorithm to dsecribe the shortest path between the intial and fin
 
 Open CV used to sketch the path that Dijkstra algo defines just like google Maps.
 
+Used NumPy Python library used for working with arrays.
+It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+
+
+
